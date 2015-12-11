@@ -1,0 +1,217 @@
+ls
+input <- read.table('/Users/juankou/Desktop/test_input.txt')
+input
+count(input)
+input <- read.table('/Users/juankou/Desktop/simulation.txt')
+input
+hist(input$time, input$doctor)
+hist(V1, V2)
+input <- read.table('/Users/juankou/Desktop/simulation.txt')
+INPUT
+input
+hist(V1, V2)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ")
+input
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+input
+input$time
+hist(input$time, input$doctor)
+input$doctor
+plot(input)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+input
+plot(input$time, input$doctor)
+plot(input$doctor, input$time)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$doctor, input$time)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$doctor, input$time)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$doctor, input$time)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$percent, input$time)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+iput
+input
+plot(input$l, input$ls)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$l, input$ls)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$l, input$ls)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$l, input$lsm
+q
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$l, input$lm）
+plot(input$l, input$lm)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+input
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$l, input$Lm)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$l, input$Lm)
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+inpur
+input
+plot(input$l, input$ls, col="black")
+input <- read.table('/Users/juankou/Desktop/simulation.txt', sep=" ",  header=TRUE)
+plot(input$l, input$ls, col="black")
+plot(input$l, input$m, col="green")
+plot(input$l, input$m, col="black")
+plot(input$l, input$ls, col="black")
+lines(input$l, input$m, col="green")
+lines(input$l, input$lm, col="blue")
+lines(input$l, input$h, col="red")
+lines(input$l, input$lh, col="red")
+plot()
+plot(1,2,x,y)
+plot(1,2,x,y,log)
+input <- read.table('/Users/juankou/Desktop/cs250/Lab9/writethoughput.txt', sep=" ",  header=TRUE)
+input <- read.table('/Users/juankou/Desktop/CS250/Lab9/writethoughput.txt', sep=" ",  header=TRUE)
+input <- read.table('/Users/juankou/Desktop/CS250/Lab9/test.txt', sep=" ",  header=TRUE)
+inpur
+input$write
+input$throughput
+input$buffer
+plot(input$buffer, input%throughput)
+plot(x, y, input$buffer, input%throughput)
+plot(input$buffer, input$throughput)
+input <- read.table('/Users/juankou/Desktop/CS250/Lab9/test copy.txt', sep=" ",  header=TRUE)
+plot(input$buffer, input$throughput)
+rnorm
+con <- url("http://www.jhsph.edu", "r")
+x <- readLines(con)
+head(x)
+style(x)
+title(x)
+content(x)
+tail(x)
+input <- read.table('/Users/juankou/Downloads/20141009183333_exportdata10.9.14 (1).csv', sep=" ",  header=TRUE)
+input <- read.cvs('/Users/juankou/Downloads/20141009183333_exportdata10.9.14 (1).csv', sep=" ",  header=TRUE)
+input <- read.csv('/Users/juankou/Downloads/20141009183333_exportdata10.9.14 (1).csv', sep=" ",  header=TRUE)
+input <- read.csv('/Users/juankou/Downloads/20141009183333_exportdata10.9.14 (1).csv')
+input
+input[nchar(input$UPC) >= 12, ]
+input[nchar(input$UPC) >= 12]
+subset(input, nchar(UPC) >= 12)
+input$VENDOR
+write.csv(input, "Desktop/data.cvs")
+input$ < NULL
+input$" " < NULL
+write.csv(input, "Desktop/data.cvs")
+input <- read.csv('/Users/juankou/Desktop/data.csv')
+input <- read.csv('/Users/juankou/Desktop/data.cvs')
+input
+input$"N" < NULL
+input
+input <- read.csv('/Users/juankou/Desktop/data.cvs')
+input
+vender <- input$VENDER
+vender
+VENDOR <- input$VENDOR
+VENDOR
+PRODUCT.TITLE <- input$PRODUCT.TITLE
+SKU <- input$SKU
+UPC <- input$UPC
+SIZE <-inout$SIZE
+SIZE <-input$SIZE
+QTY <-input$QTY
+WHOLESALE <- input$WHOLESALE
+RETAIL <- input$RETAIL
+total <- rbind(SKU, UPC)
+total
+total <- cbind(SKU, UPC)
+total
+total <- cbind(VENDOR, PRODUCT.TITLE, SKU, UPC, SIZE, QTY, WHOLESALE, RETAIL)
+total
+VENDOR
+total <- cbind(VENDOR, PRODUCT.TITLE)
+total
+total <- merge(VENDOR, PRODUCT.TITLE, SKU, UPC, SIZE, QTY, WHOLESALE, RETAIL)
+total <- write.csv(VENDOR, PRODUCT.TITLE, SKU, UPC, SIZE, QTY, WHOLESALE, RETAIL, 'Desktop/data2.csv')
+input <- read.csv('/Users/juankou/Document/20141009183333_ExportData10.9.14 (2).csv')
+input <- read.csv('/Users/juankou/Download/20141009183333_ExportData10.9.14 (2).csv')
+input <- read.csv('/Users/juankou/Downloads/20141009183333_ExportData10.9.14 (2).csv')
+input
+input <- read.csv('/Users/juankou/Downloads/20141009183333_ExportData10.9.14 (1).csv')
+input
+input <- read.csv('/Users/juankou/Downloads/20141009183333_ExportData10.9.14 (1).csv')
+input
+input$n
+input <- read.csv('/Users/juankou/Downloads/20141009183333_ExportData10.9.14 (2).csv')
+input
+input <- read.csv('/Users/juankou/Downloads/20141009183333_ExportData10.9.14 (2).csv',colClasses=c("NULL",NA,NA,NA,NA,NA,NA,NA,NA,NA))
+input <- read.csv('/Users/juankou/Downloads/20141009183333_ExportData10.9.14 (2).csv')
+input
+subset(input, nchar(UPC) >= 12)
+input.count
+input$UPC.count
+total <- write.csv(input, 'Desktop/data2.csv')
+input <- read.csv('/Users/juankou/Desktop/data2.csv',colClasses=c("NULL",NA,NA,NA,NA,NA,NA,NA,NA))
+total <- write.csv(input, 'Desktop/data2.csv')
+input <- read.csv('/Users/juankou/Desktop/data2.csv',colClasses=c("NULL",NA,NA,NA,NA,NA,NA,NA,NA))
+input
+total <- write.csv(input, 'Desktop/data2.csv', row.names=FALSE)
+total <- read.csv('Desktop/data2.csv')
+subset(total, nchar(UPC) >= 12)
+total <- write.csv(total, 'Desktop/data2.csv', row.names=FALSE)
+total <- read.csv('Desktop/data2.csv')
+input <- subset(total, nchar(UPC) >= 12)
+input
+total <- write.csv(input, 'Desktop/data2.csv', row.names=FALSE)
+?rnorm
+args("norm")
+norm(0)
+norm(o)
+norm("I")
+NORM
+norm
+norm(x, "O")
+norm(1, "O")
+norm(add, "O")
+norm(max, "O")
+a <- available.packages
+()
+a <- available.packages()
+install.packages("slidify")
+search
+library(ggplot2)
+search
+search()
+getwd()
+read.csv("mydata.csv")
+getwd()
+dir()
+getwd()
+getwd()
+myfunction <- function(x) {}
+myfunction <- function(x) {
+y <- rnorm(100)
+mean(y)
+}
+myfunction()
+myfunction(1)
+myfunction(20)
+myfunction
+rnorm
+x <- 1
+attributes(x)
+attributes(1)
+x <- 1L
+attributes(x)
+x <- c(1,2,3)
+x
+x <- c(c(1,1),c(1,2),c(1,3))
+x
+x <- logical(3)
+x
+x <- character(5)
+x
+x <- factor(c(1,2,3,1,2), levels = c(1,2,3))
+x
+x <- factor(c(1,2,3,1,2), levels = c(1,2))
+x
